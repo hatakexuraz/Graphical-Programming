@@ -1,0 +1,10 @@
+C:\Users\hatake_47\source\repos\GraphicalProgramming\GraphicalProgramming\bin\Debug\GraphicalProgramming.exe.config
+C:\Users\hatake_47\source\repos\GraphicalProgramming\GraphicalProgramming\bin\Debug\GraphicalProgramming.exe
+C:\Users\hatake_47\source\repos\GraphicalProgramming\GraphicalProgramming\bin\Debug\GraphicalProgramming.pdb
+C:\Users\hatake_47\source\repos\GraphicalProgramming\GraphicalProgramming\obj\Debug\GraphicalProgramming.csprojAssemblyReference.cache
+C:\Users\hatake_47\source\repos\GraphicalProgramming\GraphicalProgramming\obj\Debug\GraphicalProgramming.Form1.resources
+C:\Users\hatake_47\source\repos\GraphicalProgramming\GraphicalProgramming\obj\Debug\GraphicalProgramming.Properties.Resources.resources
+C:\Users\hatake_47\source\repos\GraphicalProgramming\GraphicalProgramming\obj\Debug\GraphicalProgramming.csproj.GenerateResource.cache
+C:\Users\hatake_47\source\repos\GraphicalProgramming\GraphicalProgramming\obj\Debug\GraphicalProgramming.csproj.CoreCompileInputs.cache
+C:\Users\hatake_47\source\repos\GraphicalProgramming\GraphicalProgramming\obj\Debug\GraphicalProgramming.exe
+C:\Users\hatake_47\source\repos\GraphicalProgramming\GraphicalProgramming\obj\Debug\GraphicalProgramming.pdb

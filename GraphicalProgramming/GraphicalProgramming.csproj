@@ -46,20 +46,31 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DragDrop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DragDrop.Designer.cs">
+      <DependentUpon>DragDrop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserException\ShapeException.cs" />
     <Compile Include="FactoryPattern\Circle.cs" />
     <Compile Include="FactoryPattern\Rectangle.cs" />
     <Compile Include="FactoryPattern\Shape.cs" />
     <Compile Include="FactoryPattern\ShapeFactory.cs" />
-    <Compile Include="Form1.cs">
+    <Compile Include="GraphicalProgramming.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="GraphicalProgramming.Designer.cs">
+      <DependentUpon>GraphicalProgramming.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="UserException\SyntaxClass.cs" />
+    <EmbeddedResource Include="DragDrop.resx">
+      <DependentUpon>DragDrop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GraphicalProgramming.resx">
+      <DependentUpon>GraphicalProgramming.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

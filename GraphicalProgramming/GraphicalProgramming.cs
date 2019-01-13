@@ -75,7 +75,9 @@ namespace GraphicalProgramming
 
         private void graphicalToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            DragDrop drag = new DragDrop();
+            drag.Visible = true;
+            this.Visible = false;
         }
     }
 }
